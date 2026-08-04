@@ -2534,14 +2534,14 @@ shellingham = ">=1.3.0"
 
 [[package]]
 name = "types-protobuf"
-version = "4.25.0.20240417"
+version = "7.34.1.20260518"
 description = "Typing stubs for protobuf"
 optional = false
-python-versions = ">=3.8"
+python-versions = ">=3.10"
 groups = ["types"]
 files = [
-    {file = "types-protobuf-4.25.0.20240417.tar.gz", hash = "sha256:c34eff17b9b3a0adb6830622f0f302484e4c089f533a46e3f147568313544352"},
-    {file = "types_protobuf-4.25.0.20240417-py3-none-any.whl", hash = "sha256:e9b613227c2127e3d4881d75d93c93b4d6fd97b5f6a099a0b654a05351c8685d"},
+    {file = "types_protobuf-7.34.1.20260518-py3-none-any.whl", hash = "sha256:a0a5337413347166439c0e07cbc26c6164d091401c6f01b1dfd8cdb966c4dd8f"},
+    {file = "types_protobuf-7.34.1.20260518.tar.gz", hash = "sha256:28cfaded25889cb83ebfb63cfb0a43628f0b6f3785767bec17287dc6468795f2"},
 ]
 
 [[package]]
@@ -2632,4 +2632,4 @@ fastembed-gpu = ["fastembed-gpu"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10"
-content-hash = "764973892101dd9d9f702a4eab260a3a65041566f176814ad7ae77d05108eb24"
+content-hash = "9eeb6463e72d5570922e997e4f454468f5d3e04f8133f3f377d8d12047ce9f16"
